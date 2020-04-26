@@ -1,6 +1,7 @@
 public class HelloWorld{
 	public static void main(String[] srgs){
 		System.out.println("Hello World!");
-		System.out.println("Changed to hemant");
+		System.out.println("New thing added");
+		System.out.println("Master mind");
 	}
 }
